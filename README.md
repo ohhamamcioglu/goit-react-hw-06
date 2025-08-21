@@ -5,7 +5,7 @@ Bu, React ile oluşturulmuş basit ve modern bir telefon rehberi yönetimi uygul
 
 ## Canlı Demo
 
-[Uygulamanın canlı demosunu buradan görüntüleyebilirsiniz.](https://goit-react-hw-06-pi-nine.vercel.app/)
+[Uygulamanın canlı demosunu buradan görüntüleyebilirsiniz.](https://goit-react-hw-06-neon-psi.vercel.app/)
 
 ## Özellikler
 
